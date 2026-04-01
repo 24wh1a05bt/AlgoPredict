@@ -1,4 +1,4 @@
-#AlgoPredict – Decentralized Prediction Market
+# AlgoPredict – Decentralized Prediction Market
 
 Description:
 AlgoPredict is a full-stack decentralized prediction market platform on Algorand. Users can create markets, trade shares in real-time, and claim rewards automatically through smart contracts, ensuring trust, transparency, and security.
